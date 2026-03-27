@@ -1,26 +1,40 @@
-# Portfolio 2026
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+  <a href="https://gokulan36.github.io/Portfolio2026/" target="_blank">View Live Portfolio</a>
+</h2>
 
-A personal portfolio website built with **React.js**, showcasing projects, skills, and resume. This project is hosted on GitHub Pages.
+<div align="center">
+  <img alt="Demo" src="./Assets/demo.png" />
+</div>
+
+<br/>
+
+<center>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+![GitHub Repo stars](https://img.shields.io/github/stars/GOKULAN36/Portfolio2026?color=red&logo=github&style=for-the-badge) &nbsp;
+![GitHub forks](https://img.shields.io/github/forks/GOKULAN36/Portfolio2026?color=red&logo=github&style=for-the-badge)
+
+</center>
+
+<h3 align="center">
+    🔹
+    <a href="https://github.com/GOKULAN36/Portfolio2026/issues">Report Bug</a> &nbsp; &nbsp;
+    🔹
+    <a href="https://github.com/GOKULAN36/Portfolio2026/issues">Request Feature</a>
+</h3>
 
 ---
 
-## 🌐 Live Demo
+## TL;DR
 
-[View Live Portfolio](https://GOKULAN36.github.io/Portfolio2026/)
-
----
-
-## 💻 Features
-
-- Interactive React-based UI
-- Resume download functionality
-- Skills and project showcase
-- GitHub activity calendar
-- Parallax and particle effects
+This is my personal portfolio website showcasing my projects, skills, and resume. The live version is hosted on GitHub Pages at [Portfolio 2026](https://gokulan36.github.io/Portfolio2026/).
 
 ---
 
-## ⚡ Technologies Used
+## Built With
 
 - React.js
 - Bootstrap & React-Bootstrap
@@ -30,12 +44,28 @@ A personal portfolio website built with **React.js**, showcasing projects, skill
 - React Parallax Tilt
 - Axios
 - React Router DOM
+- JavaScript
+- CSS3
 
 ---
 
-## 🚀 Getting Started
+## Features
 
-### **Clone the repository**
+**📖 Multi-Page Layout** – Home, About, Projects, Resume sections.  
+
+**🎨 Styled with React-Bootstrap and custom CSS** – Easy to modify colors and layout.  
+
+**📱 Fully Responsive** – Works on mobile, tablet, and desktop screens.  
+
+**📝 Resume Download** – Click button to download resume PDF.  
+
+**💻 GitHub Activity Integration** – Shows GitHub contributions calendar.  
+
+---
+
+## Getting Started
+
+Clone this repository. You will need `node.js` and `git` installed globally.
 
 ```bash
 git clone https://github.com/GOKULAN36/Portfolio2026.git
